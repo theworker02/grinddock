@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/grinddock",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Grind host/dock network string helpers for config audits.",
+  "bin": {
+    "grinddock": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/grinddock.git"
+  },
+  "homepage": "https://theworker02.github.io/grinddock/",
+  "keywords": [
+    "grind",
+    "dock",
+    "net",
+    "cli",
+    "toolkit"
+  ]
+}
